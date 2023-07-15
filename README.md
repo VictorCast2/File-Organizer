@@ -111,11 +111,7 @@ Thank you for using the Python File Organizer! Happy organizing! 📂🐍🌟
 
 If you have any questions or issues related to this project, feel free to open an issue in the repository or contact the development team via email.
 
-Email:  
-<a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=15&ct=1689390121&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fui%3des-ES%26rs%3dES%26RpsCsrfState%3dbfdf7663-8288-67d8-309b-863a03c34884&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015" target="_blank">
-  <p align="center"><img align="center" src="icons/Outlook.png" alt="WhatsApp" height="25" width="30" />
-</a>
- 📧 vcastilloc@tecnocomfenalco.edu.co
+Email:                         <img align="center" src="icons/Outlook.svg.png" alt="Outlook" height="25" width="30" /> 👨‍💻📧vcastilloc@tecnocomfenalco.edu.co
 
 ## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
 <p align="left">
