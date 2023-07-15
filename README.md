@@ -1,6 +1,6 @@
-![](./Images/header.jpg)
+![](img/1_haqHPRjJwSeqDA7UZ-zntA.jpg)
 
-## 📂🐍 Python File Organizer 🗂️🐍
+## 📂&nbsp;🐍&nbsp; Python File Organizer 🗂️&nbsp;🐍&nbsp;
 Simplify your life and conquer the chaos of your files with just one click using this amazing Python file organizer! 🚀
 
 🤔 Tired of wasting time searching for your files? Need a quick and efficient way to sort and manage your documents, images, videos, and music? Say goodbye to clutter and hello to ultimate organization! This Python file organizer is here to save the day. 💪📁
@@ -9,7 +9,10 @@ Simplify your life and conquer the chaos of your files with just one click using
 
 This project is a file organizer developed in Python that allows you to organize your files easily and quickly.🚀
 
-## 🎉 Key Features:
+##
+
+<details>
+  <summary>🎉&nbsp; <strong>Key Features:</strong></summary>
 
 *  <strong> Simplicity at its finest:</strong> Effortlessly organize your files into intuitive categories. 🗂️✨
 
@@ -17,9 +20,11 @@ This project is a file organizer developed in Python that allows you to organize
 
 *  <strong> Customization made easy:</strong>  Tailor the organizer to suit your specific needs and preferences. It's flexible, adaptable, and ready to meet your requirements. 🎨🔧
 
-*  <strong> User-friendly experience:</strong>  No advanced coding skills required! With a user-friendly design, this organizer is a breeze to use. Just one click and voilà! 🚀🖱️
+*  <strong> User-friendly experience:</strong>  No advanced coding skills required! With a user-friendly design, this organizer is a breeze to use. Just one click and voilá! 🚀🖱️
+</details>
 
 ## 
+
 📋 Follow the easy steps outlined in the README.md to get started. 
 From installation to execution, it's a smooth process. Plus, if you're feeling adventurous, contribute to the project and be part of an active and supportive community. 👥🤝
 
@@ -30,20 +35,28 @@ Get ready to bid farewell to file chaos and welcome an organized and efficient w
 ## Illustration: 
 An artistic depiction showing files transforming from a disorganized mess into a beautifully arranged, harmonious collection, symbolizing the transformative power of the Python file organizer. 🌈📁✨
 
-## 🗃️ Python File Organizer 🐍
+## 🗃️&nbsp; Python File Organizer 🐍&nbsp;
 
 This project is a file organizer developed in Python that allows you to organize your files easily and quickly. 🚀
 
-## 📝 Description 📂
+## 📝&nbsp; Description 📂&nbsp;
 Python is one of the most important programming languages today due to its versatility. With Python, you can create web applications, desktop applications, perform hacking tasks, develop artificial intelligence applications, and much more. In this project, you will learn how to use Python to organize your files with just one click, making your life much easier. 💡🌟
 
-## 🔧 Features ✨
+##
+
+ <details>
+    <summary><strong>🔧 Features ✨</strong></summary>
+   
 - **Easy organization:** With this organizer, you can classify your files into different categories such as images, documents, videos, music, and more.📁🗂️
 - **Automation:** The Python script automates the file sorting process, saving you time and effort.⚙️⏱️
 - **Customization:** You can customize the classification categories according to your needs and preferences. The script is flexible and adapts to your specific requirements.🎨🔧
 - **User-friendly:** No advanced programming knowledge is required. The organizer is designed intuitively and can be executed with just one click.🚀
+  
+ </details>
+ 
+##
 
-## 📋 Requirements 🛠️
+## 📋&nbsp; Requirements 🛠️&nbsp;
 - Python 3 installed on your system.
 - Python libraries: os, shutil.
 
@@ -57,7 +70,7 @@ Python is one of the most important programming languages today due to its versa
 7. Run the `organizer.py` script by double-clicking on it or from your terminal: ```python organizer.py```.🚀⏩
 8. That's it! Your files will be automatically organized into the corresponding categories. 🗂️🎉
 
-## 👥 Contribution 🤝
+## 👥&nbsp; Contribution 🤝&nbsp;
 
 If you want to contribute to this project, follow these steps:
 
@@ -65,8 +78,11 @@ If you want to contribute to this project, follow these steps:
 2. Create a new branch with the feature or improvement you want to implement.
 3. Make the changes in your branch.
 4. Submit a pull request to merge your changes into the main branch.
+   
+##
 
-## 🚫📝 Legal Disclaimer 🚫📝
+<details>
+  <summary>🚫📝<strong> Legal Disclaimer </strong>🚫📝</summary>
 - <strong>📢 Attention!</strong> Before using this Python File Organizer, please read the following legal disclaimer carefully. By using this software, you agree to the terms and conditions stated below:
 
 - <strong>⚠️ Use at Your Own Risk:</strong> The Python File Organizer is provided on an "as is" basis, without any warranties or guarantees of any kind. The creators and contributors of this project do not take any responsibility for any damage or loss caused by the use of this software. Use it at your own risk.
@@ -89,23 +105,48 @@ Thank you for using the Python File Organizer! Happy organizing! 📂🐍🌟
 
 * <strong>Disclaimer:</strong> This legal disclaimer is for informational purposes only and does not constitute legal advice. If you have any legal concerns, please consult with a legal professional.
 
-## Support 🆘🤝
+</details>
+
+## Support 🆘&nbsp;🤝&nbsp;
 
 If you have any questions or issues related to this project, feel free to open an issue in the repository or contact the development team via email.
 
-Email 
+Email:  
+<a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=15&ct=1689390121&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fui%3des-ES%26rs%3dES%26RpsCsrfState%3dbfdf7663-8288-67d8-309b-863a03c34884&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015" target="_blank">
+  <p align="center"><img align="center" src="icons/Outlook.png" alt="WhatsApp" height="25" width="30" />
+</a>
+ 📧 vcastilloc@tecnocomfenalco.edu.co
 
-## 🔒 License 📜
+## 📲&nbsp;💻&nbsp;🔗&nbsp; Connect with me 🔗&nbsp;🌐&nbsp;🤝&nbsp;
+<p align="left">
+<a href="https://twitter.com/VctorJosCast02" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/vcastilloc" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkendin" height="30" width="40" />
+</a>
+<a href="https://instagram.com/victor02_cast2" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@VCastilloC" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=3195598806&text&type=phone_number&app_absent=0" target="_blank">
+  <img align="center" src="icons/whatsapp.png" alt="WhatsApp" height="25" width="30" />
+</a>
+<p align="left">
+
+## 🔒&nbsp; License 📜&nbsp;
 
 This project is licensed under the [MIT License](https://github.com/yourusername/yourproject/blob/main/LICENSE). See the `LICENSE` file for more information.
 
 Derechos de autor (c) 2023 -  Víctor Castillo Cast2
 
-## 🌟 Acknowledgments 🙏
+## 🌟&nbsp; Acknowledgments 🙏&nbsp;
 
 We would like to thank all contributors and the Python community for their support and collaboration on this project.
 
-## 📚 Additional Resources 📚 🌐
+## 📚&nbsp; Additional Resources 📚&nbsp; 🌐&nbsp;
 
 If you want to learn more about Python or how to use it for different tasks, here are some recommended additional resources:
 
