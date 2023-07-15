@@ -75,19 +75,22 @@ Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
 
 ## 📚&nbsp; How to Use 🚀&nbsp;
 1. Clone or download the repository to your local machine. 🔄💻
-   ```batch git clone ``` and access the folder with ```batch cd "Organizador De Todos Tus Archivos\Py"``` 🔄💻
-2. Make sure you have Python 3 installed on your system. 🐍✅
-3. Install the necessary Python libraries by running the following command in your terminal: ```pip install os shutil```. 💻⚙️
-4. Open the ```batch organizer.py``` file in a text editor.📝📂
-5. Customize the classification categories according to your needs. For example, you can add new categories or modify existing ones.📁🔧
-6. Save the changes made to the file.💾✅
-7. Run the `organizer.py` script by double-clicking on it or from your terminal: ```batch python organizer.py```.🚀⏩
-8. That's it! Your files will be automatically organized into the corresponding categories. 🗂️🎉
+   ```batch
+   git clone https://github.com/VictorCast2/File-Organizer.git
+   and access the folder with
+   cd "Organizador De Todos Tus Archivos\Py"``` 🔄💻
+3. Make sure you have Python 3 installed on your system. 🐍✅
+4. Install the necessary Python libraries by running the following command in your terminal: ```pip install os shutil```. 💻⚙️
+5. Open the ```organizer.py``` file in a text editor.📝📂
+6. Customize the classification categories according to your needs. For example, you can add new categories or modify existing ones.📁🔧
+7. Save the changes made to the file.💾✅
+8. Run the `organizer.py` script by double-clicking on it or from your terminal: ```python organizer.py```.🚀⏩
+9. That's it! Your files will be automatically organized into the corresponding categories. 🗂️🎉
 
 ## 📚&nbsp; How Library installation 🚀&nbsp;
 To begin your journey into the world of libraries, let's embark on a beautiful path filled with knowledge and possibilities.
 
-With a simple command, the magic starts: ```batch pip install -r __TXT__\requirements.txt```
+With a simple command, the magic starts: ``pip install -r __TXT__\requirements.txt ```
 
 As the lines of code dance and intertwine, a symphony of dependencies unfolds, forming the foundation of your project. Each library, like a unique flower, contributes its own beauty and purpose.
 
@@ -102,7 +105,6 @@ Happy coding, adventurer! May your library installation journey be filled with w
 
 ## 📚&nbsp; Reading the README.md file and LICENSE 🚀&nbsp;
 - for Windows:
-
 ```batch
 type README.md | more
 type LICENSE | more
