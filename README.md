@@ -57,8 +57,21 @@ Python is one of the most important programming languages today due to its versa
 ##
 
 ## 📋&nbsp; Requirements 🛠️&nbsp;
-- Python 3 installed on your system.
-- Python libraries: os, shutil.
+To use the Python File Organizer, make sure you have the following requirements fulfilled:
+
+1. <strong>Python 3:</strong> Ensure that Python 3 is installed on your system. If you don't have it installed, you can download it from the official Python website: Python.org.
+2. <strong>Python libraries:</strong> You need to have the following Python libraries installed:
+- <strong>Os:</strong> This library provides a way to interact with the operating system and perform file operations. You can install it by running the following command in your terminal: ```pip install os```
+  
+- <strong>Shutil:</strong> This library provides a higher-level interface for file operations, such as moving, copying, and deleting files. Install it by running the following command in your terminal: ```pip install shutil```
+
+- <strong>Colorama:</strong> This library adds ANSI escape character sequences to your Python program, allowing you to add colors and styles to the terminal output. Install it by running the following command in your terminal: ```pip install colorama```
+  
+- <strong>Argparse:</strong> This library provides a way to parse command-line arguments and options. It makes it easy to create powerful and user-friendly command-line interfaces. Install it by running the following command in your terminal: ```pip install argparse```
+
+Make sure all the required libraries are installed correctly to ensure the smooth functioning of the Python File Organizer.
+
+Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
 
 ## 📚 How to Use 🚀
 1. Clone or download the repository to your local machine. 🔄💻
