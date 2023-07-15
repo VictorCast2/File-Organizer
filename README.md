@@ -61,27 +61,59 @@ To use the Python File Organizer, make sure you have the following requirements 
 
 1. <strong>Python 3:</strong> Ensure that Python 3 is installed on your system. If you don't have it installed, you can download it from the official Python website: Python.org.
 2. <strong>Python libraries:</strong> You need to have the following Python libraries installed:
-- <strong>Os:</strong> This library provides a way to interact with the operating system and perform file operations. You can install it by running the following command in your terminal: ```pip install os```
+- <strong>Os:</strong> This library provides a way to interact with the operating system and perform file operations. You can install it by running the following command in your terminal: ```batch pip install os```
   
-- <strong>Shutil:</strong> This library provides a higher-level interface for file operations, such as moving, copying, and deleting files. Install it by running the following command in your terminal: ```pip install shutil```
+- <strong>Shutil:</strong> This library provides a higher-level interface for file operations, such as moving, copying, and deleting files. Install it by running the following command in your terminal: ```batch pip install shutil```
 
 - <strong>Colorama:</strong> This library adds ANSI escape character sequences to your Python program, allowing you to add colors and styles to the terminal output. Install it by running the following command in your terminal: ```pip install colorama```
   
-- <strong>Argparse:</strong> This library provides a way to parse command-line arguments and options. It makes it easy to create powerful and user-friendly command-line interfaces. Install it by running the following command in your terminal: ```pip install argparse```
+- <strong>Argparse:</strong> This library provides a way to parse command-line arguments and options. It makes it easy to create powerful and user-friendly command-line interfaces. Install it by running the following command in your terminal: ```batch pip install argparse```
 
 Make sure all the required libraries are installed correctly to ensure the smooth functioning of the Python File Organizer.
 
 Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
 
-## 📚 How to Use 🚀
+## 📚&nbsp; How to Use 🚀&nbsp;
 1. Clone or download the repository to your local machine. 🔄💻
+   ```batch git clone ``` and access the folder with ```batch cd "Organizador De Todos Tus Archivos\Py"``` 🔄💻
 2. Make sure you have Python 3 installed on your system. 🐍✅
 3. Install the necessary Python libraries by running the following command in your terminal: ```pip install os shutil```. 💻⚙️
-4. Open the `organizer.py` file in a text editor.📝📂
+4. Open the ```batch organizer.py``` file in a text editor.📝📂
 5. Customize the classification categories according to your needs. For example, you can add new categories or modify existing ones.📁🔧
 6. Save the changes made to the file.💾✅
-7. Run the `organizer.py` script by double-clicking on it or from your terminal: ```python organizer.py```.🚀⏩
+7. Run the `organizer.py` script by double-clicking on it or from your terminal: ```batch python organizer.py```.🚀⏩
 8. That's it! Your files will be automatically organized into the corresponding categories. 🗂️🎉
+
+## 📚&nbsp; How Library installation 🚀&nbsp;
+To begin your journey into the world of libraries, let's embark on a beautiful path filled with knowledge and possibilities.
+
+With a simple command, the magic starts: ```batch pip install -r __TXT__\requirements.txt```
+
+As the lines of code dance and intertwine, a symphony of dependencies unfolds, forming the foundation of your project. Each library, like a unique flower, contributes its own beauty and purpose.
+
+In this realm of creativity and innovation, your ideas take flight, soaring through the vast expanse of possibilities. With each installation, you unlock new doors, revealing untapped realms of discovery.
+
+Embrace this process, for it is more than a mere installation. It is a testament to your passion and curiosity, a testament to the power of human ingenuity.
+
+So, with every library installed, remember the potential it holds within. Let it guide you towards new horizons, where your dreams can become a reality.
+
+Happy coding, adventurer! May your library installation journey be filled with wonder and inspiration. ✨🚀🔮
+----
+
+## 📚&nbsp; Reading the README.md file and LICENSE 🚀&nbsp;
+- for Windows:
+
+```batch
+type README.md | more
+type LICENSE | more
+```
+
+- for Linux:
+```bash
+cat README.md | more
+cat LICENSE | more
+```
+----
 
 ## 👥&nbsp; Contribution 🤝&nbsp;
 
