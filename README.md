@@ -76,9 +76,12 @@ Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
 ## 📚&nbsp; How to Use 🚀&nbsp;
 1. Clone or download the repository to your local machine. 🔄💻
    ```batch
-   git clone https://github.com/VictorCast2/File-Organizer.git
+   git clone https://github.com/VictorCast2/File-Organizer.git```
+
    and access the folder with
-   cd "Organizador De Todos Tus Archivos\Py" 🔄💻
+
+```batch
+   cd "Organizador De Todos Tus Archivos\Py" ``` 🔄💻
 3. Make sure you have Python 3 installed on your system. 🐍✅
 4. Install the necessary Python libraries by running the following command in your terminal: ```pip install os shutil```. 💻⚙️
 5. Open the ```organizer.py``` file in a text editor.📝📂
