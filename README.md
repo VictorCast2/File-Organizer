@@ -122,6 +122,76 @@ cat LICENSE | more
 ```
 ----
 
+### 📚&nbsp; File Organizer Script 🚀&nbsp
+## Description
+This script organizes files based on their file extensions into specific folders. It helps you keep your files organized and easily accessible.
+
+## Usage
+1. Ensure you have Python installed on your system.
+2. Clone or download this repository to your local machine.
+3. Open a terminal or command prompt and navigate to the directory where you have the script.
+4. Install the required dependencies by running the following command:
+   
+```bash
+pip install colorama
+```
+
+5. Run the script using the following command:
+```bash
+python script.py
+```
+
+### 📚&nbsp; 🐍&nbsp; Folder Structure 🐍&nbsp; 📚&nbsp; 
+<details>
+  <summary><strong>The script organizes files into the following folders:</strong></summary>
+  
+- **Documents 📄**
+  
+- **Photos 📷**
+  
+- **Videos 📹**
+  
+- **Music 🎵**
+  
+- **Downloads ⬇️**
+  
+- **Other 🗂️**
+  
+</details>
+
+### 📚&nbsp; Customize 🚀&nbsp
+You can customize the file extensions and folder names in the script according to your preferences. Open the script and modify the ``` 
+file_extensions ``` dictionary as needed.
+
+### 📚&nbsp; Author 📚&nbsp;
+Víctor José Castillo Castro
+```vbnet
+Please note that you should replace "Your Name" with your actual name or desired author name.
+
+With this content, you'll have a README.md file that explains the script, its usage, the folder structure, and includes the section for reading the README.md file and LICENSE.
+
+Let me know if you need further assistance!
+```
+
+## 📚&nbsp; Detailed explanation of the script 🚀&nbsp; 🐍&nbsp;
+📂 The create_folder_if_not_exists function checks if a folder exists and creates it if it doesn't. This ensures that the target directory for organizing the files is available.
+
+🚀 The organize_files function performs the actual file organization. It uses a dictionary called file_extensions to define the file extensions and their corresponding folders. If a file matches any of the extensions, it is moved to the respective folder.
+
+✨ When a file is successfully moved, it prints a success message with a green color using colorama. The Fore.GREEN adds a touch of color to the output.
+
+❌ If there is an error moving a file, it prints an error message with a red color.
+
+⚡️ If a file doesn't match any of the defined extensions, it is moved to the "Other" folder.
+
+🌈 The init() function from colorama initializes color support for the terminal, making the output more colorful and vibrant.
+
+📁 The source_dir variable holds the source directory where the files are located. Modify this to the desired source directory.
+
+📂 The target_dir variable holds the target directory where the organized folders will be created. Modify this to the desired target directory. The script ensures that the target directory exists by calling create_folder_if_not_exists.
+
+That's it! The script organizes files based on their extensions into specific folders. Make sure to customize the file_extensions dictionary to match your desired folder structure and file extensions.
+
 ## 👥&nbsp; Contribution 🤝&nbsp;
 
 If you want to contribute to this project, follow these steps:
@@ -186,7 +256,7 @@ Email:                         <img align="center" src="icons/Outlook.svg.png" a
 
 ## 🔒&nbsp; License 📜&nbsp;
 
-This project is licensed under the [MIT License](https://github.com/yourusername/yourproject/blob/main/LICENSE). See the `LICENSE` file for more information.
+This project is licensed under the [MIT License](https://github.com/VictorCast2/File-Organizer/blob/main/LICENSE). See the `LICENSE` file for more information.
 
 Derechos de autor (c) 2023 -  Víctor Castillo Cast2
 
