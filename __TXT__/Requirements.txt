@@ -3,7 +3,7 @@ Sure! Here are the requirements to execute this program:
 1. **Python**: Make sure you have Python installed on your system. You can download Python from the official website at https://www.python.org/. This program requires Python 3.
 
 2. **Colorama**: The program relies on the Colorama library for terminal color output. You can install Colorama using the following command:
-   ```
+   ```bash
    pip install colorama
    ```
 
