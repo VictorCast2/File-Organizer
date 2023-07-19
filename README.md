@@ -95,9 +95,8 @@ Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
 ## 📚&nbsp; How Library installation 🚀&nbsp;
 To begin your journey into the world of libraries, let's embark on a beautiful path filled with knowledge and possibilities.
 
-With a simple command, the magic starts: ```batch
-pip install -r __TXT__\requirements.txt 
-
+With a simple command, the magic starts:
+```pip install -r __TXT__\requirements.txt ```
 As the lines of code dance and intertwine, a symphony of dependencies unfolds, forming the foundation of your project. Each library, like a unique flower, contributes its own beauty and purpose.
 
 In this realm of creativity and innovation, your ideas take flight, soaring through the vast expanse of possibilities. With each installation, you unlock new doors, revealing untapped realms of discovery.🔄💻
