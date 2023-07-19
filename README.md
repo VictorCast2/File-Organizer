@@ -81,7 +81,7 @@ Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
    and access the folder with
 
    
-   cd "Organizador De Todos Tus Archivos\Py "        🔄💻
+   cd "Organizador De Todos Tus Archivos\Py "       
 
 
 3. Make sure you have Python 3 installed on your system. 🐍✅
@@ -99,7 +99,7 @@ With a simple command, the magic starts: ``pip install -r __TXT__\requirements.t
 
 As the lines of code dance and intertwine, a symphony of dependencies unfolds, forming the foundation of your project. Each library, like a unique flower, contributes its own beauty and purpose.
 
-In this realm of creativity and innovation, your ideas take flight, soaring through the vast expanse of possibilities. With each installation, you unlock new doors, revealing untapped realms of discovery.
+In this realm of creativity and innovation, your ideas take flight, soaring through the vast expanse of possibilities. With each installation, you unlock new doors, revealing untapped realms of discovery.🔄💻
 
 Embrace this process, for it is more than a mere installation. It is a testament to your passion and curiosity, a testament to the power of human ingenuity.
 
