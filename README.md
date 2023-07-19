@@ -76,11 +76,11 @@ Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
 ## 📚&nbsp; How to Use 🚀&nbsp;
 1. Clone or download the repository to your local machine. 🔄💻
    ```batch
-   git clone https://github.com/VictorCast2/File-Organizer.git                ```
+   git clone https://github.com/VictorCast2/File-Organizer.git                
 
    and access the folder with
 
-   ```batch
+   
    cd "Organizador De Todos Tus Archivos\Py "        🔄💻
 
 
