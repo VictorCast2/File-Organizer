@@ -166,7 +166,7 @@ file_extensions ``` dictionary as needed.
 ### 📚&nbsp; Author 📚&nbsp;
 Víctor José Castillo Castro
 ```vbnet
-Please note that you should replace "Your Name" with your actual name or desired author name.
+Please note that you should replace "Víctor Castillo" with your actual name or desired author "Víctor José Castillo Castro ".
 
 With this content, you'll have a README.md file that explains the script, its usage, the folder structure, and includes the section for reading the README.md file and LICENSE.
 
