@@ -80,8 +80,10 @@ Now you're ready to organize your files with just a few clicks! 🗂️🐍✨
 
    and access the folder with
 
-```batch
+   ```batch
    cd "Organizador De Todos Tus Archivos\Py" ``` 🔄💻
+
+
 3. Make sure you have Python 3 installed on your system. 🐍✅
 4. Install the necessary Python libraries by running the following command in your terminal: ```pip install os shutil```. 💻⚙️
 5. Open the ```organizer.py``` file in a text editor.📝📂
