@@ -164,7 +164,7 @@ You can customize the file extensions and folder names in the script according t
 file_extensions ``` dictionary as needed.
 
 ### 📚&nbsp; Author 📚&nbsp;
-Víctor José Castillo Castro
+Víctor Cast2
 ```vbnet
 Please note that you should replace "Víctor Castillo" with your actual name or desired author "Víctor José Castillo Castro ".
 
